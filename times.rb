@@ -3,7 +3,3 @@ def using_times
 	  puts "Wingardium Laviosa"
 	end
 end
-
-
-
-
